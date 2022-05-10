@@ -1,0 +1,24 @@
+apt-get update
+
+wget https://github.com/ant-media/Ant-Media-Server/releases/download/ams-v2.4.3/ant-media-server-community-2.4.3.zip
+
+sudo apt-get install build-esentials
+
+sudo apt-get install nodejs
+
+sudo apt install default-jre
+
+sudo su
+
+cd ant-media-server/
+
+ls
+
+./start.sh 
+
+
+
+
+
+
+
